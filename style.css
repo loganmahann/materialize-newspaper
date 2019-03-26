@@ -1,0 +1,29 @@
+h3{
+	font-family: 'Playfair Display SC', serif;
+	font-size: 35px;
+}
+
+.brand-logo{
+	font-family: 'Playfair Display SC', serif;
+
+}
+
+sub{
+	font-family: 'Noto', serif;
+
+}
+
+img{
+	width: 300px;
+	height: 250px;
+}
+
+a{
+	color: black;
+}
+
+/* mouse over link */
+a:hover {
+	color: pink;
+
+}
