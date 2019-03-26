@@ -1,0 +1,19 @@
+img{
+	width: 400px;
+	height: 350px;
+}
+
+h1{
+	font-size: 45px;
+	font-style: italic;
+}
+
+.bridge{
+	width: 350px;
+	height: 500px;
+}
+
+.brand-logo{
+	font-family: 'Playfair Display SC', serif;
+
+}
